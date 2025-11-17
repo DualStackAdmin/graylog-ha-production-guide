@@ -6,15 +6,15 @@ This guide is specifically tailored for a production environment where each serv
 
 Features
 
-Clean & Readable: A professional, responsive HTML layout for easy reading on any device.
+✨ Clean & Readable: A professional, responsive HTML layout for easy reading on any device.
 
-Copy-to-Clipboard: All code blocks include a "Copy" button for quick and error-free execution.
+📋 Copy-to-Clipboard: All code blocks include a "Copy" button for quick and error-free execution.
 
-Step-by-Step: The guide is broken down into 5 logical stages, from system prep to final testing.
+🔢 Step-by-Step: The guide is broken down into 5 logical stages, from system prep to final testing.
 
-Anonymized: All specific IP addresses and hostnames have been replaced with placeholders (e.g., <NODE1_IP>) for security and general use.
+🔒 Anonymized: All specific IP addresses and hostnames have been replaced with placeholders (e.g., <NODE1_IP>) for security and general use.
 
-Prod-Optimized: Includes memory (heap) configurations for MongoDB (8GB), Data Node/OpenSearch (12GB), and Graylog Server (8GB) to run stably on 32GB RAM servers.
+🚀 Prod-Optimized: Includes memory (heap) configurations for MongoDB (8GB), Data Node/OpenSearch (12GB), and Graylog Server (8GB) to run stably on 32GB RAM servers.
 
 How to Use
 
@@ -26,4 +26,4 @@ Follow the steps in the guide, replacing the placeholders (like <NODE1_IP>, YOUR
 
 Contributing
 
-If you find any errors, or have suggestions for improvements (e.g., updates for new Graylog versions), feel free to fork this repository, make your changes, and submit a pull request.
+If you find any errors, or have suggestions for improvements (e.g., updates for new Graylog versions), feel free to fork this repository, make your changes, and submit a pull request
